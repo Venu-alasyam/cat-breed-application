@@ -1,0 +1,14 @@
+{
+  "name": "cat-breeds",
+  "version": "1.0.0",
+  "description": "Top 5 cat breeds Application ",
+  "main": "solution1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Venumadhavi Alasyam",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
